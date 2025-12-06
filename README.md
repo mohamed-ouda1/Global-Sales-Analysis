@@ -80,6 +80,3 @@ Examples of insights that can be extracted from the analysis:
 
 ---
 
-## 📄 License
-
-This project is licensed under **(Add license type, e.g., MIT License)**.
