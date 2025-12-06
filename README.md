@@ -63,7 +63,6 @@ Examples of insights that can be extracted from the analysis:
 * ✅ Discover seasonal or monthly sales patterns.
 * ✅ Provide recommendations to improve performance and increase revenue.
 
-> You can add images or visualizations from the analysis here for better presentation.
 
 ---
 
