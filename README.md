@@ -38,5 +38,18 @@ git clone https://github.com/mohamed-ouda1/Global-Sales-Analysis.git
 cd Global-Sales-Analysis
 
 # فتح Jupyter Notebook
-jupyter notebook
+notebooks/Sales analysis.ipynb
 
+#📊 النتائج المتوقعة / المميزات الرئيسية
+أمثلة على النتائج التي يمكن استخراجها من التحليل:
+
+✅ تحديد الأسواق الأعلى مبيعًا (Regions الأعلى مبيعات).
+
+✅ تحديد المنتجات الأكثر مبيعًا.
+
+✅ اكتشاف الأنماط الموسمية والشهرية للمبيعات.
+
+✅ تقديم توصيات لتحسين الأداء وزيادة الأرباح.
+
+#🙌 المؤلفون
+محمد عوده — مطور المشروع ومحلل البيانات.
