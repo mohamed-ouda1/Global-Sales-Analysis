@@ -66,11 +66,7 @@ Examples of insights that can be extracted from the analysis:
 
 ---
 
-## 🎯 Usage / Contribution
 
-* Use the notebook as a template for other data analysis projects.
-* Add new datasets for broader analysis.
-* Extend the analysis to include sales forecasting or create an interactive dashboard.
 
 ---
 
