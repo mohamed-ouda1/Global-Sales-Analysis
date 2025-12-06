@@ -28,7 +28,6 @@ This project is suitable for data analysts or anyone interested in gaining a dee
   * `matplotlib` / `seaborn`
 * Jupyter Notebook
 
-> Add any additional libraries you used in the analysis along with their versions.
 
 ---
 
