@@ -77,7 +77,6 @@ Examples of insights that can be extracted from the analysis:
 ## 🙌 Authors
 
 * **Mohamed Ouda** — Project creator and data analyst.
-* (Add other contributors if any)
 
 ---
 
