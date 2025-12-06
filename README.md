@@ -1,55 +1,88 @@
-# 📊 تحليل المبيعات العالمية - Global Sales Analysis
+# 📊 Global Sales Analysis
 
-## 🧾 لمحة عامة
-مشروع **تحليل المبيعات العالمية** يهدف إلى دراسة بيانات المبيعات من مصادر متعددة، تنظيفها، استكشافها، وتحليلها، وإنشاء تصوّرات بيانية تساعد على فهم أنماط المبيعات، تحديد الأسواق والمنتجات الناجحة، واقتراح توصيات استراتيجية بناءً على النتائج.
+## 🧾 Overview
 
-هذا المشروع مناسب للمحللين، أو أي شخص مهتم بتحسين فهمه لسلوك المبيعات العالمية من خلال تحليل منهجي للبيانات.
+The **Global Sales Analysis** project aims to study sales data from multiple sources, clean it, explore it, and perform analysis to generate visualizations that help understand sales patterns, identify top-performing markets and products, and provide strategic recommendations based on insights.
 
----
-
-## 📂 هيكل المشروع
-- `data/` — ملفات البيانات الأصلية والمُعالجة.  
-- `notebooks/` — دفاتر Jupyter التي تحتوي على خطوات التنظيف، التحليل، والاستكشاف البياني.  
-- `scripts/` — سكربتات بايثون لأتمتة بعض خطوات التحليل (إن وجدت).  
-- `dashboard/` — لوحات عرض أو تقارير تفاعلية (إن وجدت).  
-- `outputs/` — نتائج التحليل النهائية، الرسومات، والتقارير.
+This project is suitable for data analysts or anyone interested in gaining a deeper understanding of global sales trends through systematic data analysis.
 
 ---
 
-## 🔧 المتطلبات
-- Python 3.x  
-- المكتبات:
-  - `pandas`  
-  - `numpy`  
-  - `matplotlib` / `seaborn`  
-- Jupyter Notebook  
+## 📂 Project Structure
 
-> يمكن إضافة أي مكتبات أخرى استخدمتها في التحليل مع رقم الإصدار.
+* `data/` — Raw and processed data files.
+* `notebooks/Global_Sales_Analysis.ipynb` — Main Jupyter Notebook containing data cleaning, analysis, and exploration steps.
+* `scripts/` — Python scripts for automating some analysis steps (if any).
+* `dashboard/` — Interactive dashboards or reports (if any).
+* `outputs/` — Final analysis results, charts, and reports.
 
 ---
 
-## 🚀 كيفية التشغيل
+## 🔧 Requirements
+
+* Python 3.x
+* Libraries:
+
+  * `pandas`
+  * `numpy`
+  * `matplotlib` / `seaborn`
+* Jupyter Notebook
+
+> Add any additional libraries you used in the analysis along with their versions.
+
+---
+
+## 🚀 How to Run
 
 ```bash
-# استنساخ الريبو
+# Clone the repository
 git clone https://github.com/mohamed-ouda1/Global-Sales-Analysis.git
 
-# الدخول إلى مجلد المشروع
+# Enter the project folder
 cd Global-Sales-Analysis
 
-# فتح Jupyter Notebook
-notebooks/Sales analysis.ipynb
+# Open Jupyter Notebook
+jupyter notebook
+```
+
+Then open the notebook:
+
+```
+notebooks/Global_Sales_Analysis.ipynb
+```
+
+to start exploring and analyzing the data.
+
 ---
-## 📊 النتائج المتوقعة / المميزات الرئيسية
-أمثلة على النتائج التي يمكن استخراجها من التحليل:
 
-✅ تحديد الأسواق الأعلى مبيعًا (Regions الأعلى مبيعات).
+## 📊 Expected Results / Key Features
 
-✅ تحديد المنتجات الأكثر مبيعًا.
+Examples of insights that can be extracted from the analysis:
 
-✅ اكتشاف الأنماط الموسمية والشهرية للمبيعات.
+* ✅ Identify top-performing sales regions.
+* ✅ Identify best-selling products.
+* ✅ Discover seasonal or monthly sales patterns.
+* ✅ Provide recommendations to improve performance and increase revenue.
 
-✅ تقديم توصيات لتحسين الأداء وزيادة الأرباح.
+> You can add images or visualizations from the analysis here for better presentation.
 
-## 🙌 المؤلفون
-محمد عوده — مطور المشروع ومحلل البيانات.
+---
+
+## 🎯 Usage / Contribution
+
+* Use the notebook as a template for other data analysis projects.
+* Add new datasets for broader analysis.
+* Extend the analysis to include sales forecasting or create an interactive dashboard.
+
+---
+
+## 🙌 Authors
+
+* **Mohamed Ouda** — Project creator and data analyst.
+* (Add other contributors if any)
+
+---
+
+## 📄 License
+
+This project is licensed under **(Add license type, e.g., MIT License)**.
